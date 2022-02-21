@@ -15,7 +15,7 @@ body{
     color: #FF4500;
     font-size: 40px;
     font-style: italic;
-    font-family: "Georgia";
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .shapka{
     background-color: darksalmon;
